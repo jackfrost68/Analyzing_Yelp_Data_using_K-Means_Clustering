@@ -1,8 +1,6 @@
 # Analyzing_Yelp_Data_using_Clustering
 
 
-<ins>*Introduction:*</ins>
-
 In this project, I use k-means clustering machine model to uncover hidden insights about Yelp users. 
 
 <ins>*Loading the dataset*</ins>
@@ -34,9 +32,10 @@ Based on the graph above, the right number of clusters would be 4. After running
 To see whether outliers had an effect on the number of clusters, I used the function removeOutlier to remove them from the dataset. After doing so, I plot another elbow chart. 
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/jackfrost68/Analyzing_Yelp_Data_using_K-Means_Clustering/blob/97939ec2f1915b977cd679c92d5b98fe35085613/Clusters%20number.jpeg">
+  <img width="600" height="200" src="https://github.com/jackfrost68/Analyzing_Yelp_Data_using_K-Means_Clustering/blob/0d91e9c0f9addae0c5718e6dc7ff608dab933848/Elbow%20chart%20after%20outliers%20removal.jpeg">
 </p>
 
+After plotting it, there's little evidence that outliers had significant changes to the elbow chart
 
 
 
