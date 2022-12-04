@@ -43,9 +43,10 @@ After plotting it, there's little evidence that outliers had significant changes
 After rerunning the model with the new outlier-less data set, I get the clusters below; 
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/jackfrost68/Analyzing_Yelp_Data_using_K-Means_Clustering/blob/0d91e9c0f9addae0c5718e6dc7ff608dab933848/Elbow%20chart%20after%20outliers%20removal.jpeg">
+  <img width="600" height="200" src="https://github.com/jackfrost68/Analyzing_Yelp_Data_using_K-Means_Clustering/blob/81595b8c371a47f79711576a837b6ae92e036656/Clusters%20after%20outliers%20removal.png">
 </p>
 
+Based on the output above,  I would recommend to the marketing team to directly market to cluster 1 because they're the least active (based on months active). Marketing to them could bring them back to use the platform more. Marketing to cluster 2 wouldn't make sense because they already actively use the platform. 
 
 
 
