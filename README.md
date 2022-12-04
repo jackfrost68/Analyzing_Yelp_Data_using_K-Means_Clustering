@@ -40,7 +40,9 @@ To see whether outliers had an effect on the number of clusters, I used the func
 
 After plotting it, there's little evidence that outliers had significant changes to the elbow chart
 
-After rerunning the model with 471 less outliers, 
+After rerunning the model with the new outlier-less data set, I get the clusters below; 
+
+
 
 
 
