@@ -42,6 +42,16 @@ After plotting it, there's little evidence that outliers had significant changes
 
 After rerunning the model with the new outlier-less data set, I get the clusters below; 
 
+<p align="center">
+  <img width="600" height="200" src="https://github.com/jackfrost68/Analyzing_Yelp_Data_using_K-Means_Clustering/blob/0d91e9c0f9addae0c5718e6dc7ff608dab933848/Elbow%20chart%20after%20outliers%20removal.jpeg">
+</p>
+
+
+
+
+
+
+
 
 
 
