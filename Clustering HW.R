@@ -33,7 +33,9 @@ elbowChart(df)
 #removing outliers 
 df=removeOutliers(df)
 
+
 #perform k-means clustering with k = 4
 model <- kmeans(df,4)
 plot(df, col=model$cluster)
 model$size
+model$centers
