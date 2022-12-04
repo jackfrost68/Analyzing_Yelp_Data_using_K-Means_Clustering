@@ -24,8 +24,11 @@ To build the model, I would need to find the appropriate number of clusters to g
 Based on the graph above, the right number of clusters would be 4. After running the kmeans model with a k value of 4, I get the following clusters. 
 
 <p align="center">
-  <img width="600" height="200" src="https://github.com/jackfrost68/Analyzing_Yelp_Data_using_K-Means_Clustering/blob/97939ec2f1915b977cd679c92d5b98fe35085613/Clusters%20number.jpeg">
+  <img width="600" height="200" src="https://github.com/jackfrost68/Analyzing_Yelp_Data_using_K-Means_Clustering/blob/70184a1142c00864a8c12006efd4374dc7159096/Clusters%201.png">
 </p>
+
+Based on the output above, cluster 1 is more engaged with the platform. They have more months active, reviews, votes and friends compared to other clusters. 
+
 
 <ins>*Exploring effect of outliers*</ins>
 
@@ -36,6 +39,8 @@ To see whether outliers had an effect on the number of clusters, I used the func
 </p>
 
 After plotting it, there's little evidence that outliers had significant changes to the elbow chart
+
+After rerunning the model with 471 less outliers, 
 
 
 
