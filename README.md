@@ -1,7 +1,6 @@
-# Analyzing_Yelp_Data_using_k-means_Clustering
 
 
-In this project, I use a k-means clustering machine learning model to uncover hidden insights about Yelp users. 
+In this project, I use a k-means clustering machine learning model to design a successful marketing campaign for Yelp. 
 
 <ins>*Loading the dataset*</ins>
 
