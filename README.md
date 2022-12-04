@@ -1,7 +1,7 @@
-# Analyzing_Yelp_Data_using_Clustering
+# Analyzing_Yelp_Data_using_k-means_Clustering
 
 
-In this project, I use k-means clustering machine model to uncover hidden insights about Yelp users. 
+In this project, I use a k-means clustering machine learning model to uncover hidden insights about Yelp users. 
 
 <ins>*Loading the dataset*</ins>
 
@@ -40,7 +40,7 @@ To see whether outliers had an effect on the number of clusters, I used the func
 
 After plotting it, there's little evidence that outliers had significant changes to the elbow chart
 
-After rerunning the model with the new outlier-less data set, I get the clusters below; 
+After re-running the model with the new outlier-less data set, I get the clusters below; 
 
 <p align="center">
   <img width="600" height="200" src="https://github.com/jackfrost68/Analyzing_Yelp_Data_using_K-Means_Clustering/blob/81595b8c371a47f79711576a837b6ae92e036656/Clusters%20after%20outliers%20removal.png">
